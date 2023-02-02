@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "api": "^5.0.7",
+    "firebase-admin": "^11.5.0",
+    "onesignal-node": "^3.4.0",
+    "request": "^2.88.2"
+  }
+}
